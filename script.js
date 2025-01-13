@@ -23,3 +23,5 @@ const form = document.getElementById("contact");
         alert("Thank you for contacting us!");
         form.reset();
     });
+
+
